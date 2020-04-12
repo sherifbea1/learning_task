@@ -1,14 +1,3 @@
-.PerviyClass{
-    font-size: 30px;
-}
-#PerviyId{
-    font-size: 30px;
+p{
     color: red;
-}
-table{
-    color: white;
-    background-color: blue;
-}
-table th{
-    border: 1px white solid;
 }
